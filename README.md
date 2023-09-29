@@ -17,11 +17,21 @@ I'm Currently a third-year student at Høyskolen Kristiania, The coding projects
 
 ### 🧰 Technologies
 
+JavaScript, Java, .NET/C#, Python.
+HTML, CSS, React, React Native, Github.
+MongoDB, MySQL, Azure DB, PostgreSQL.
+Node.js, Express.
+
+Also currently learning kubernetes, spring boot, docker, rabbitmq, github actions, devops in aws and more.
+Icons Coming for all technologies.
+
 
 [![MongoDB](https://custom-icon-badges.demolab.com/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 [![Express](https://custom-icon-badges.demolab.com/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
 [![React](https://custom-icon-badges.demolab.com/badge/-React-218AAB?style=for-the-badge&logo=react&logoColor=white)](https://reactjs.org/)
 [![Node.js](https://custom-icon-badges.demolab.com/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
+
+
 
 
 #

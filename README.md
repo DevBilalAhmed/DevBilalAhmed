@@ -6,11 +6,16 @@ Note: This Github profile and readme is under construction, im using another git
 
 I'm Currently a third-year student at Høyskolen Kristiania, The coding projects built by me are usually focused on full-stack applications. Im hoping to learn more about the IT-world and create more projects as a junior developer.
 
+   <p align="left">
+      <a href="https://www.youtube.com/c/fknight?sub_confirmation=1">
+         <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC2WHjPDvbE6O328n17ZGcfg?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
+   </p>
+
 
 
    <p align="left">
       <a href="https://www.linkedin.com/in/bilal-ahmed-703139263/">
-         <img alt="linkedin" title="LinkedIn Profile" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg/></a> 
+         <img alt="linkedin" title="LinkedIn Profile" width= 40px; height= 20px; src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg"/></a> 
    </p>
 
 ---

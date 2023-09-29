@@ -22,7 +22,7 @@ HTML, CSS, React, React Native, Github.
 MongoDB, MySQL, Azure DB, PostgreSQL.
 Node.js, Express.
 
-Also currently learning kubernetes, spring boot, docker, rabbitmq, github actions, devops in aws and more.
+Also currently learning Kubernetes, Spring Boot, Docker, RabbitMQ, Github Actions, Devops in AWS and more.
 Icons Coming for all technologies.
 
 

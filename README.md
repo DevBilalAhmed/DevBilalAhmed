@@ -8,14 +8,9 @@ I'm Currently a third-year student at Høyskolen Kristiania, The coding projects
 
 
 
-
-[linkedin]: https://custom-icon-badges.demolab.com/badge/linkedin.svg?logo=linkedin&logoSource=feather
-[![linkedin][linkedin]][linkedin]
-
-
    <p align="left">
       <a href="https://www.linkedin.com/in/bilal-ahmed-703139263/">
-         <img alt="linkedin" title="LinkedIn Profile" src="https://custom-icon-badges.demolab.com/badge/linkedin.svg?logo=linkedin&logoSource=feather"/></a> 
+         <img alt="linkedin" title="LinkedIn Profile" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg/></a> 
    </p>
 
 ---

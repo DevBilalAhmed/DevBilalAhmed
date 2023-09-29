@@ -2,7 +2,7 @@
 
 **`Developer`**
 
-Note: This Github profile is under construction, im using another github profile at the moment since it provides a student pack through my student mail. but im planning to make this my main profile. some repositories might be forked, or transferred ownership from https://github.com/bilalStudy 
+Note: This Github profile and readme is under construction, im using another github profile at the moment since it provides a student pack through my student mail. but im planning to make this my main profile. some repositories might be forked, or transferred ownership from: https://github.com/bilalStudy 
 
 I'm Currently a third-year student at Høyskolen Kristiania, The coding projects built by me are usually focused on full-stack applications. Im hoping to learn more about the IT-world and create more projects as a junior developer.
 
@@ -11,7 +11,7 @@ I'm Currently a third-year student at Høyskolen Kristiania, The coding projects
 
    <p align="left">
       <a href="https://www.linkedin.com/in/bilal-ahmed-703139263/">
-         <img alt="linkedin" title="LinkedIn Profile" src="https://custom-icon-badges.demolab.com/badge/linkedin.svg?logo=activity&logoSource=feather"/></a> 
+         <img alt="linkedin" title="LinkedIn Profile" src="https://custom-icon-badges.demolab.com/badge/linkedin.svg?logo=linkedin&logoSource=feather"/></a> 
    </p>
 
 ---

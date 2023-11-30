@@ -56,5 +56,8 @@ Currently Learning
 
 
 
+---
 
-#
+### 🗂️ Projects and Exams
+
+[PRO202 Smidig Prosjekt](https://github.com/DevBilalAhmed/SmidigProsjektEksamen)

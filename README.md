@@ -39,19 +39,19 @@ Also currently learning Kubernetes, Spring Boot, Docker, RabbitMQ, Github Action
 
 [![React-Native](https://custom-icon-badges.demolab.com/badge/-React_Native-218AAB?style=for-the-badge&logo=react&logoColor=white)](https://reactnative.dev/)
 
-[![Github](https://custom-icon-badges.demolab.com/badge/-Github-333?style=for-the-badge&logo=github&logoColor=white)](https://reactnative.dev/)
+[![Github](https://custom-icon-badges.demolab.com/badge/-Github-333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
 
-[![MySql](https://custom-icon-badges.demolab.com/badge/-Mysql-00758f?style=for-the-badge&logo=mysql&logoColor=white)](https://reactnative.dev/)
-[![AzureDb](https://custom-icon-badges.demolab.com/badge/-Azure_DB-007FFF?style=for-the-badge&logo=azure&logoColor=white)](https://reactnative.dev/)
-[![PostgreSQL](https://custom-icon-badges.demolab.com/badge/-PostgreSQL-0064a5?style=for-the-badge&logo=postgresql&logoColor=white)](https://reactnative.dev/)
+[![MySql](https://custom-icon-badges.demolab.com/badge/-Mysql-00758f?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![AzureDb](https://custom-icon-badges.demolab.com/badge/-Azure_DB-007FFF?style=for-the-badge&logo=azure&logoColor=white)](https://azure.microsoft.com/en-us/products/azure-sql/database)
+[![PostgreSQL](https://custom-icon-badges.demolab.com/badge/-PostgreSQL-0064a5?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 
 Currently Learning
 
-[![Kubernetes](https://custom-icon-badges.demolab.com/badge/-Kubernetes-3970e4?style=for-the-badge&logo=kubernetes&logoColor=white)](https://reactnative.dev/)
-[![SpringBoot](https://custom-icon-badges.demolab.com/badge/-Spring_Boot-6db33f?style=for-the-badge&logo=springboot&logoColor=white)](https://reactnative.dev/)
-[![Docker](https://custom-icon-badges.demolab.com/badge/-Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)](https://reactnative.dev/)
-[![RabbitMQ](https://custom-icon-badges.demolab.com/badge/-RabbitMQ-ff6600?style=for-the-badge&logo=rabbitmq&logoColor=white)](https://reactnative.dev/)
-[![AWS](https://custom-icon-badges.demolab.com/badge/-AWS-ff9900?style=for-the-badge&logo=aws&logoColor=white)](https://reactnative.dev/)
+[![Kubernetes](https://custom-icon-badges.demolab.com/badge/-Kubernetes-3970e4?style=for-the-badge&logo=kubernetes&logoColor=white)](https://kubernetes.io/)
+[![SpringBoot](https://custom-icon-badges.demolab.com/badge/-Spring_Boot-6db33f?style=for-the-badge&logo=springboot&logoColor=white)](https://spring.io/)
+[![Docker](https://custom-icon-badges.demolab.com/badge/-Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
+[![RabbitMQ](https://custom-icon-badges.demolab.com/badge/-RabbitMQ-ff6600?style=for-the-badge&logo=rabbitmq&logoColor=white)](https://www.rabbitmq.com/)
+[![AWS](https://custom-icon-badges.demolab.com/badge/-AWS-ff9900?style=for-the-badge&logo=aws&logoColor=white)](https://aws.amazon.com/)
 
 
 
@@ -60,4 +60,8 @@ Currently Learning
 
 ### 🗂️ Projects and Exams
 
-[PRO202 Smidig Prosjekt](https://github.com/DevBilalAhmed/SmidigProsjektEksamen)
+**Agile Project Mobile App Exam**
+
+[![Smidig](https://custom-icon-badges.demolab.com/badge/-Agile%20Project%20PRO202-gold?style=for-the-badge&logo=package&logoColor=black)](https://github.com/DevBilalAhmed/SmidigProsjektEksamen)
+
+

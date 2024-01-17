@@ -38,7 +38,7 @@ HTML, CSS, React, React Native, Github.
 MongoDB, MySQL, Azure DB, PostgreSQL.
 Node.js, Express.
 
-Also currently learning Kubernetes, Spring Boot, Docker, RabbitMQ, Github Actions, Devops in AWS and more.
+Also currently learning Aksel NAV, SiteImprove and Amplitude
 
 [![MongoDB](https://custom-icon-badges.demolab.com/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 [![Express](https://custom-icon-badges.demolab.com/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
@@ -72,8 +72,5 @@ Also currently learning Kubernetes, Spring Boot, Docker, RabbitMQ, Github Action
 [![PostgreSQL](https://custom-icon-badges.demolab.com/badge/-PostgreSQL-0064a5?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 
 
-Currently Learning
-
-[![Kubernetes](https://custom-icon-badges.demolab.com/badge/-Kubernetes-3970e4?style=for-the-badge&logo=kubernetes&logoColor=white)](https://kubernetes.io/)
 
 

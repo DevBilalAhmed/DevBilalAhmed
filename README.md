@@ -33,11 +33,6 @@ I'm Currently a third-year student at Høyskolen Kristiania, The coding projects
 
 ### 🧰 Technologies
 
-JavaScript, Java, .NET/C#, Python.
-HTML, CSS, React, React Native, Github.
-MongoDB, MySQL, Azure DB, PostgreSQL.
-Node.js, Express.
-
 Also currently learning Aksel NAV, SiteImprove and Amplitude
 
 [![MongoDB](https://custom-icon-badges.demolab.com/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
@@ -58,6 +53,7 @@ Also currently learning Aksel NAV, SiteImprove and Amplitude
 
 [![Html5](https://custom-icon-badges.demolab.com/badge/-Html5-FF5733?style=for-the-badge&logo=html&logoColor=white)](https://www.w3.org/html/)
 [![Css](https://custom-icon-badges.demolab.com/badge/-css3-2965f1?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/Overview.en.html)
+[![Tailwind](https://custom-icon-badges.demolab.com/badge/-tailwind-ADD8E6?style=for-the-badge&logo=tailwind&logoColor=white)](https://tailwindcss.com/)
 
 [![React-Native](https://custom-icon-badges.demolab.com/badge/-React_Native-218AAB?style=for-the-badge&logo=react&logoColor=white)](https://reactnative.dev/)
 

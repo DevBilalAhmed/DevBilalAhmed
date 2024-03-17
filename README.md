@@ -29,6 +29,10 @@ I'm Currently a third-year student at Høyskolen Kristiania, The coding projects
 
 [![Smidig](https://custom-icon-badges.demolab.com/badge/-Agile%20Project%20PRO202-gold?style=for-the-badge&logo=package&logoColor=black)](https://github.com/DevBilalAhmed/SmidigProsjektEksamen)
 
+**Project Management Exam**
+
+[![ProsjektLedelse](https://custom-icon-badges.demolab.com/badge/-Project%20Management%20BU5300-gold?style=for-the-badge&logo=package&logoColor=black)](https://github.com/DevBilalAhmed/ProjectManagementExam)
+
 ---
 
 ### 🧰 Technologies
